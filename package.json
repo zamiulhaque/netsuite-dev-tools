@@ -1,0 +1,146 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "netsuite-dev-tools",
+        "scope": null,
+        "escapedName": "netsuite-dev-tools",
+        "name": "netsuite-dev-tools",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/zamuilhaque"
+    ],
+    [
+      {
+        "raw": "netsuite-dev-tools",
+        "scope": null,
+        "escapedName": "netsuite-dev-tools",
+        "name": "netsuite-dev-tools",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/zamuilhaque"
+    ],
+    [
+      {
+        "raw": "netsuite-dev-tools",
+        "scope": null,
+        "escapedName": "netsuite-dev-tools",
+        "name": "netsuite-dev-tools",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/usr/local/bin"
+    ],
+    [
+      "netsuite-dev-tools",
+      ""
+    ],
+    [
+      "netsuite-dev-tools",
+      ""
+    ],
+    [
+      "netsuite-dev-tools",
+      ""
+    ],
+    [
+      {
+        "raw": "netsuite-dev-tools",
+        "scope": null,
+        "escapedName": "netsuite-dev-tools",
+        "name": "netsuite-dev-tools",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/usr/local/lib/node_modules"
+    ]
+  ],
+  "_from": "netsuite-dev-tools",
+  "_id": "netsuite-dev-tools@1.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/netsuite-dev-tools",
+  "_nodeVersion": "5.1.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/netsuite-dev-tools-1.1.4.tgz_1497754630885_0.3267536605708301"
+  },
+  "_npmUser": {
+    "name": "zamiulhaque",
+    "email": "zamiul.haque.1@gmail.com"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "netsuite-dev-tools",
+    "scope": null,
+    "escapedName": "netsuite-dev-tools",
+    "name": "netsuite-dev-tools",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/netsuite-dev-tools/-/netsuite-dev-tools-1.1.4.tgz",
+  "_shasum": "e4f2138a5915403c782912282c26e7bfba798a4b",
+  "_shrinkwrap": null,
+  "_spec": "netsuite-dev-tools",
+  "_where": "/usr/local/lib/node_modules",
+  "author": {
+    "name": "Zamiul Haque"
+  },
+  "bin": {
+    "netsuite": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/zamiulhaque/netsuite-dev-tools/issues"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-format": "^3.0.9",
+    "commander": "^2.9.0",
+    "progress": "^2.0.0",
+    "superagent": "^3.5.2"
+  },
+  "description": "A command line tool to automate various tasks for a typical, barebones Netsuite development environment.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-GJUhSUwlEVHcNXeDoWkPNNvnTTjfns7+WTGFrZv+zl7sVBg8RNDtpuw7r2UkYKxC8n8osIHrjO5DXMUtqWKboQ==",
+    "shasum": "cb33248e6d4025249a561e373edceb7afd603ff7",
+    "tarball": "https://registry.npmjs.org/netsuite-dev-tools/-/netsuite-dev-tools-1.1.2.tgz"
+  },
+  "homepage": "https://github.com/zamiulhaque/netsuite-dev-tools#readme",
+  "keywords": [
+    "dev",
+    "netsuite",
+    "tools"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "zamiulhaque",
+      "email": "zamiul.haque.1@gmail.com"
+    }
+  ],
+  "name": "netsuite-dev-tools",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamiulhaque/netsuite-dev-tools.git"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "version": "1.1.6"
+}
